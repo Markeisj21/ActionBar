@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_delivery"
+        android:icon="@drawable/ic_local_shipping_black_24dp"
+        android:title="Delivery">
+    </item>
+    <item android:id="@+id/ic_golf"
+        android:icon="@drawable/ic_golf_course_black_24dp"
+        android:title="Golf">
+    </item>
+    <item android:id="@+id/ic_translate"
+        android:icon="@drawable/ic_g_translate_black_24dp"
+        android:title="Translate">
+    </item>
+    <item android:id="@+id/ic_android"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Android">
+    </item>
+
+
+
+
+</menu>
